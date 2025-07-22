@@ -21,3 +21,7 @@ distributed under the License is distributed on an "AS IS" BASIS,
 WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
+
+# Credits
+Kudos to:<br>
+[Contributors of the "vial-qmk" repo](https://github.com/vial-kb/vial-qmk)<br>
